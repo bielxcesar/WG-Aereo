@@ -1,25 +1,12 @@
 # WG-Aereo
 trabalho da umc M2
 
- WG Aéreo – Sistema Web de Reservas de Voos
- 
-WG Aéreo é um sistema web completo para simular o cadastro de passageiros,
-escolha de destinos e reservas de voos. Desenvolvido com Spring Boot no
-backend e HTML/CSS/JavaScript no frontend, o projeto aplica a arquitetura MVC
-e diversos padrões de projeto consagrados.
- Objetivo
-Este projeto tem como objetivo o desenvolvimento de um sistema educacional
-que integra tecnologias Java no backend e frontend web moderno para simular
-uma aplicação de reservas aéreas. Ele foi pensado para demonstrar a integração
-entre camadas da aplicação e boas práticas de desenvolvimento web.
- Funcionalidades Principais
-• Página inicial com cards de destinos
-• Cadastro de passageiros com validação de campos
-• Associação de voos aos passageiros
-• Consulta de passageiros cadastrados
-• Visualização de reservas vinculadas
-• Design moderno, responsivo, com tipografia Poppins
- Tecnologias Utilizadas
+WG Aéreo – Sistema Web de Reservas de Voos
+WG Aéreo é um sistema web completo para simular o cadastro de passageiros, escolha de destinos e reservas de voos. Desenvolvido com Spring Boot no backend e HTML/CSS/JavaScript no frontend, o projeto segue a arquitetura MVC e implementa diversos padrões de projeto reconhecidos.
+
+Objetivo
+Este projeto visa o desenvolvimento de um sistema educacional que integra tecnologias Java no backend e frontend moderno para simular uma aplicação de reservas aéreas. Foi projetado para demonstrar a integração entre camadas da aplicação e boas práticas de desenvolvimento web.
+
 Backend (Java + Spring Boot)
 • Java 17
 • Spring Boot 3.x
